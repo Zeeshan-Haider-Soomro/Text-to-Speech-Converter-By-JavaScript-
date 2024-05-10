@@ -40,7 +40,7 @@ textarea{
 }
 textarea::placeholder{
     color: #ddd;
-    font-size: 25px;
+    font-size: 16px;
 }
 .row{
     width: 600px;
