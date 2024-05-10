@@ -49,6 +49,8 @@ textarea::placeholder{
     gap: 20px;
 }
 button{
+    width: 200px;
+    margin-top: 10px;
     background: #ff2963;
     color: #fff;
     font-size: 16x;
@@ -59,6 +61,7 @@ button{
     cursor: pointer;
     display: flex;
     align-items: center;
+    text-align: center;
 }
 i{
     margin-right: 10px;
